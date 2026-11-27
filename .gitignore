@@ -17,6 +17,7 @@ out/
 
 # Zed
 .zed/
+compile_commands.json
 
 # Sublime Text
 *.sublime-workspace
