@@ -1,0 +1,14 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "whitecaplol.textbox2",
+	"name": "textbox2",
+	"version": "v0.0.1",
+	"developer": "whitecaplol",
+	"description": ""
+}
